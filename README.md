@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I am Gennaro
 
-<!--
-**gennaro-tedesco/gennaro-tedesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### In short
+- I have a PhD in theoretical physics
+- I am employed in the field of machine learning and data science
+- I play the Najdorf and the Grünfeld with the black pieces
 
-Here are some ideas to get you started:
+Here I write neovim plugins and command line applications. Have a look around!
+<p align="center">
+  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Neovim" src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-1f425f.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact information
+- :email: <b><a href="mailto:gennarotedesco@gmail.com">Email me</a></b>
+- :necktie: <b><a href="">Curriculum vitae</a></b>

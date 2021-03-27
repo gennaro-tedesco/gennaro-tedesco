@@ -14,7 +14,8 @@ Here I write neovim plugins and command line applications. Have a look around!
 </p>
 
 #### Contact information:
-- :incoming\_envelope: <b><a href="mailto:gennarotedesco@gmail.com">Email me</a></b>
-- :necktie: <b><a href="./cv/CV_Gennaro_Tedesco.pdf">Curriculum vitae</a></b>
+- :incoming\_envelope: <b><a href="mailto:gennarotedesco@gmail.com">e-mail me</a></b>
+- :necktie: <b><a href="./cv/CV_Gennaro_Tedesco.pdf">curriculum vitae</a></b>
+- :computer: <b><a href="https://github.com/gennaro-tedesco/dotfiles">dotfiles</a></b>
 
 I am happy to collaborate on neovim and command line projects: feel free to reach out!

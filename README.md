@@ -1,6 +1,6 @@
 ### Hi, I am Gennaro
 
-#### In short
+#### In short:
 - I have a PhD in theoretical physics
 - I am employed in the field of machine learning and data science
 - I play the Najdorf and the Grünfeld with the black pieces
@@ -13,6 +13,8 @@ Here I write neovim plugins and command line applications. Have a look around!
   <img alt="Python" src="https://img.shields.io/badge/python-1f425f.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### Contact information
-- :email: <b><a href="mailto:gennarotedesco@gmail.com">Email me</a></b>
-- :necktie: <b><a href="">Curriculum vitae</a></b>
+#### Contact information:
+- :incoming\_envelope: <b><a href="mailto:gennarotedesco@gmail.com">Email me</a></b>
+- :necktie: <b><a href="./cv/CV_Gennaro_Tedesco.pdf">Curriculum vitae</a></b>
+
+I am happy to collaborate on neovim and command line projects: feel free to reach out!

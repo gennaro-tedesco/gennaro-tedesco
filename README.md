@@ -7,9 +7,7 @@
 
 Here I write neovim plugins and command line applications. Have a look around!
 <p align="center">
-  <a href="https://www.lua.org/about.html">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gennaro-tedesco&show_icons=true&hide=prs,issues&theme=solarized-dark&hide_title=true"/>
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gennaro-tedesco&show_icons=true&hide=prs,issues&theme=solarized-dark&hide_title=true"/>
 </p>
 
 #### Contact information:

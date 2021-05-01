@@ -6,9 +6,28 @@
 - I play the Najdorf and the Grünfeld with the black pieces
 
 Here I write neovim plugins and command line applications. Have a look around!
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gennaro-tedesco&show_icons=true&hide=prs,issues&theme=solarized-dark&hide_title=true"/>
-</p>
+<details>
+  <summary>Stats</summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gennaro-tedesco&show_icons=true&hide=prs,issues&theme=solarized-dark&hide_title=true"/>
+  </p>
+</details>
+
+<details>
+  <summary>Projects: quick links</summary>
+
+##### Neovim
+- [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup)
+- [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
+- [nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround)
+- [boilit](https://github.com/gennaro-tedesco/boilit)
+
+##### Go
+- [zathuraconf](https://github.com/gennaro-tedesco/zathuraconf)
+- [element](https://github.com/gennaro-tedesco/element)
+- [stargazer](https://github.com/gennaro-tedesco/stargazer)
+
+</details>
 
 #### Contact information:
 - :incoming\_envelope: <b><a href="mailto:gennarotedesco@gmail.com">e-mail me</a></b>
@@ -16,3 +35,4 @@ Here I write neovim plugins and command line applications. Have a look around!
 - :computer: <b><a href="https://github.com/gennaro-tedesco/dotfiles">dotfiles</a></b>
 
 I am happy to collaborate on neovim and command line projects: feel free to reach out!
+

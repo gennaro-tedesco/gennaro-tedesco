@@ -20,6 +20,7 @@ Here I write neovim plugins and command line applications. Have a look around!
 - [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround)
+- [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 
 ##### Go

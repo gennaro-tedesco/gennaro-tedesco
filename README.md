@@ -16,21 +16,22 @@ Here I write neovim plugins and command line applications. Have a look around!
 <details>
   <summary>Projects: quick links</summary>
 
-##### Neovim
+##### neovim plugins
 - [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround)
 - [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 
-##### Go
+##### command line
 - [archimede](https://github.com/gennaro-tedesco/archimede)
 - [zathuraconf](https://github.com/gennaro-tedesco/zathuraconf)
 - [element](https://github.com/gennaro-tedesco/element)
 - [stargazer](https://github.com/gennaro-tedesco/stargazer)
-  
-##### gh 
+
+##### gh extensions
 - [gh-f](https://github.com/gennaro-tedesco/gh-f)
+- [gh-s](https://github.com/gennaro-tedesco/gh-s)
 
 </details>
 

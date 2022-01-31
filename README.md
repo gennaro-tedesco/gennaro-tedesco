@@ -30,8 +30,9 @@ Here I write neovim plugins and command line applications. Have a look around!
 - [stargazer](https://github.com/gennaro-tedesco/stargazer)
 
 ##### gh extensions
-- [gh-f](https://github.com/gennaro-tedesco/gh-f)
 - [gh-s](https://github.com/gennaro-tedesco/gh-s)
+- [gh-f](https://github.com/gennaro-tedesco/gh-f)
+- [gh-i](https://github.com/gennaro-tedesco/gh-i)
 
 </details>
 

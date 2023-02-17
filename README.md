@@ -13,6 +13,9 @@ Here I write neovim plugins and command line applications. Have a look around!
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gennaro-tedesco&show_icons=true&hide=prs,issues&theme=solarized-dark&hide_title=true"/>
   </p>
+  <p align = "center">
+    <img align = "center" src="https://komarev.com/ghpvc/?username=gennaro-tedesco&color=2aa198&label=GitHub+views"/>
+  </p>
 </details>
 
 <details>
